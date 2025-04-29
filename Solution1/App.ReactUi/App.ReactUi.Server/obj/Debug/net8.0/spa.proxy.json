@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:63005",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\SBP HAZIRLIK\\GitProjects\\14440734524\\Solution1\\App.ReactUi\\App.ReactUi.Server\\..\\app.reactui.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
