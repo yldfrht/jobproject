@@ -1,0 +1,14 @@
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\bin\Debug\net8.0\App.Domain.runtimeconfig.json
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\bin\Debug\net8.0\App.Domain.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.csproj.AssemblyReference.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\App.Domain.genruntimeconfig.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll

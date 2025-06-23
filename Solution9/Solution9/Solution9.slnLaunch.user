@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "App.Api\\App.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "App.ReactUi\\app.reactui.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

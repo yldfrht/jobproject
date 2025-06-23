@@ -1,0 +1,15 @@
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\bin\Debug\net8.0\App.DataAccess.deps.json
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\bin\Debug\net8.0\App.DataAccess.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\bin\Debug\net8.0\App.DataAccess.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\bin\Debug\net8.0\App.Domain.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\bin\Debug\net8.0\App.Domain.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.csproj.AssemblyReference.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.AssemblyInfoInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.AssemblyInfo.cs
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.csproj.CoreCompileInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.Data.17934D1E.Up2Date
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\refint\App.DataAccess.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\App.DataAccess.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution7\App.DataAccess\obj\Debug\net8.0\ref\App.DataAccess.dll

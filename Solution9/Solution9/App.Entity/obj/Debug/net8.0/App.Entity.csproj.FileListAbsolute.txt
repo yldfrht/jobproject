@@ -1,0 +1,11 @@
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\bin\Debug\net8.0\App.Entity.deps.json
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\bin\Debug\net8.0\App.Entity.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\bin\Debug\net8.0\App.Entity.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.AssemblyInfoInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.AssemblyInfo.cs
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.csproj.CoreCompileInputs.cache
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\refint\App.Entity.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\App.Entity.pdb
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution9\Solution9\App.Entity\obj\Debug\net8.0\ref\App.Entity.dll
