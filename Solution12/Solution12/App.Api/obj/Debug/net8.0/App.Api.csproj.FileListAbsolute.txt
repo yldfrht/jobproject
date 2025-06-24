@@ -128,3 +128,4 @@ E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Api\obj\Debug
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Api\obj\Debug\net8.0\App.Api.pdb
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Api\obj\Debug\net8.0\App.Api.genruntimeconfig.cache
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Api\obj\Debug\net8.0\ref\App.Api.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Api\obj\Debug\net8.0\App.Api.sourcelink.json

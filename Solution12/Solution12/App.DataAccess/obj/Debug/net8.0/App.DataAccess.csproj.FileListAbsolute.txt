@@ -15,3 +15,4 @@ E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.DataAccess\ob
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.DataAccess\obj\Debug\net8.0\App.DataAccess.pdb
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.DataAccess\obj\Debug\net8.0\App.DataAccess.genruntimeconfig.cache
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.DataAccess\obj\Debug\net8.0\ref\App.DataAccess.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.DataAccess\obj\Debug\net8.0\App.DataAccess.sourcelink.json

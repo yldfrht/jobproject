@@ -9,3 +9,4 @@ E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Entity\obj\De
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Entity\obj\Debug\net8.0\refint\App.Entity.dll
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Entity\obj\Debug\net8.0\App.Entity.pdb
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Entity\obj\Debug\net8.0\ref\App.Entity.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Entity\obj\Debug\net8.0\App.Entity.sourcelink.json

@@ -13,3 +13,4 @@ E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Core\obj\Debu
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Core\obj\Debug\net8.0\refint\App.Core.dll
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Core\obj\Debug\net8.0\App.Core.pdb
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json

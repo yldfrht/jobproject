@@ -17,3 +17,4 @@ E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Business\obj\
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Business\obj\Debug\net8.0\refint\App.Business.dll
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Business\obj\Debug\net8.0\App.Business.pdb
 E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Business\obj\Debug\net8.0\ref\App.Business.dll
+E:\SBP HAZIRLIK\GitProjects\114440734524\Solution12\Solution12\App.Business\obj\Debug\net8.0\App.Business.sourcelink.json
